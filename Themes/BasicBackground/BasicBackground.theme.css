@@ -28,7 +28,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/background.jpg);	/* general background image						*/
+	--background:					url(https://www.google.com/search?q=background+pictures&rlz=1C5CHFA_enUS864US864&sxsrf=ALeKk03XlWUnEJgfBDllnaoCuJrAiWJoHg:1611616279190&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8_9a-mrjuAhXFZs0KHQ9dAcIQ_AUoAXoECAIQAw&biw=1440&bih=821#imgrc=Jcd-deEo4Xta4M);	/* general background image						*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)							*/
